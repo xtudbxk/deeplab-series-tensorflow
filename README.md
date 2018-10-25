@@ -1,4 +1,5 @@
 #deeplab-series-tensorflow version
+NOTE: there is a few mistakes in the resnet, and I will fix it latter.
 
 ### Introduction
 
