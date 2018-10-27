@@ -289,9 +289,10 @@ class DeepLab_largefov(Network):
                 i+=1
                 epoch = i / iterations_per_epoch_train
 
+                # here code is used to test if the network works right
                 #if i >= 50:
                 #    epoch += 300
-                epoch += 300
+                # epoch += 300
 
             end_time = time.time()
             print("end_time:%f" % end_time)
